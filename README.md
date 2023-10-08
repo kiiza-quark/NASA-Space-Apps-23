@@ -38,14 +38,14 @@
 
 ### Data
 
-DSCOVR PlasMAG 2016 Data
-DSCOVR PlasMAG 2017 Data
-DSCOVR PlasMAG 2018 Data
-DSCOVR PlasMAG 2019 Data
-DSCOVR PlasMAG 2020 Data
-DSCOVR PlasMAG 2021 Data
-DSCOVR PlasMAG 2022 Data
-DSCOVR PlasMAG 2023 Data
-SPACE WEATHER PREDICTION CENTER, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION
-GFZ German Research Centre for Geosciences
-National Oceanic and Atmospheric Administration (NOAA), DSCOVR Space Weather Data Portal
+- DSCOVR PlasMAG 2016 Data
+- DSCOVR PlasMAG 2017 Data
+- DSCOVR PlasMAG 2018 Data
+- DSCOVR PlasMAG 2019 Data
+- DSCOVR PlasMAG 2020 Data
+- DSCOVR PlasMAG 2021 Data
+- DSCOVR PlasMAG 2022 Data
+- DSCOVR PlasMAG 2023 Data
+- SPACE WEATHER PREDICTION CENTER, NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION
+- GFZ German Research Centre for Geosciences
+- National Oceanic and Atmospheric Administration (NOAA), DSCOVR Space Weather Data Portal
