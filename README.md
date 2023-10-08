@@ -1,3 +1,8 @@
+### To load our trained model, use the following example
+
+from tensorflow.keras.models import load_model
+loaded_model = load_model('model_name.h5')
+
 ### Data Preprocessing
 
 - We obtained the one minute-averaged level one data from the resources (links attached).
